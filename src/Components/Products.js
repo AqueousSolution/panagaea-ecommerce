@@ -68,7 +68,7 @@ function Products({setCartItems,cartItems,active,setActive,currency,setCurrency,
                 <img src={product.image_url} alt="Classic Maintenance Set" 
                 className="product-grid-item__image"/>
                 <p className="product-grid-item__name">{product.title}</p>
-            <p className="product-grid-item__price">{currency}{product.price}</p>
+            <p className="product-grid-item__price">{currency==='USD'?'$':currency}{product.price}</p>
                 <a href="#" className="add-to-cart" onClick={(e)=>addToCart(product)}>Add To Cart</a>
                 
             </div>
