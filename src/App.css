@@ -57,6 +57,7 @@
 .product-grid-item__name {
   margin-bottom: 0.5rem;
   font-size: 16px;
+  justify-self: center;
 }
 
 .add-to-cart {
