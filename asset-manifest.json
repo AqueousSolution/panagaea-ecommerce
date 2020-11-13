@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/panagaea-ecommerce/static/css/main.f222b68f.chunk.css",
+    "main.js": "/panagaea-ecommerce/static/js/main.f9262b84.chunk.js",
+    "main.js.map": "/panagaea-ecommerce/static/js/main.f9262b84.chunk.js.map",
+    "runtime-main.js": "/panagaea-ecommerce/static/js/runtime-main.bd3f6af6.js",
+    "runtime-main.js.map": "/panagaea-ecommerce/static/js/runtime-main.bd3f6af6.js.map",
+    "static/js/2.b62cd54d.chunk.js": "/panagaea-ecommerce/static/js/2.b62cd54d.chunk.js",
+    "static/js/2.b62cd54d.chunk.js.map": "/panagaea-ecommerce/static/js/2.b62cd54d.chunk.js.map",
+    "index.html": "/panagaea-ecommerce/index.html",
+    "static/css/main.f222b68f.chunk.css.map": "/panagaea-ecommerce/static/css/main.f222b68f.chunk.css.map",
+    "static/js/2.b62cd54d.chunk.js.LICENSE.txt": "/panagaea-ecommerce/static/js/2.b62cd54d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/panagaea-ecommerce/static/media/Bau-Regular.eca73cef.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd3f6af6.js",
+    "static/js/2.b62cd54d.chunk.js",
+    "static/css/main.f222b68f.chunk.css",
+    "static/js/main.f9262b84.chunk.js"
+  ]
+}
