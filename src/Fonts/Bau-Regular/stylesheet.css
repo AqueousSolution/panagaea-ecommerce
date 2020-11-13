@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Bau';
+    src: url('Bau-Regular.eot');
+    src: url('Bau-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Bau-Regular.woff2') format('woff2'),
+        url('Bau-Regular.woff') format('woff'),
+        url('Bau-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
