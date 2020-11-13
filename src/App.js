@@ -104,7 +104,7 @@ function App() {
                         <div className="cart-item__image">
                             <img src={item.image_url} alt="product" className="image"/>
                         </div>
-                  <p className="cart-item__price">{item.price*item.quantity}</p>
+                  <p className="cart-item__price">{currency==='USD'?'$':currency}{item.price*item.quantity}</p>
                         <p className="close" onClick={(e)=>removeFromCart(item.id)}>X</p>
                     </div>
                   ))}
